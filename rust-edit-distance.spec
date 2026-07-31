@@ -6,8 +6,8 @@
 %global crate edit-distance
 
 Name:           rust-%{crate}
-Version:        2.1.0
-Release:        3%{?dist}
+Version:        2.2.2
+Release:        1%{?dist}
 Summary:        Levenshtein edit distance between strings, a measure for similarity
 
 # Upstream license specification: Apache-2.0
